@@ -1,0 +1,38 @@
+{
+  "name": "netflixgptnamaste",
+  "version": "1.0.0",
+  "description": "netflix gpt",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnithaPiskee/NETFLIXGPTNAMASTE.git"
+  },
+  "keywords": [
+    "Keywords:",
+    "netflix",
+    "gpt",
+    "recommendation",
+    "react",
+    "ai"
+  ],
+  "author": "anitha piske",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnithaPiskee/NETFLIXGPTNAMASTE/issues"
+  },
+  "homepage": "https://github.com/AnithaPiskee/NETFLIXGPTNAMASTE#readme",
+  "devDependencies": {
+    "parcel": "^2.14.3"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.17",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.0",
+    "tailwindcss": "^4.0.17"
+  }
+}
